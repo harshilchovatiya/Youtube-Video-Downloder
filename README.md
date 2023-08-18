@@ -4,7 +4,7 @@
 "The YouTube Video Downloader is a user-friendly web application designed for video enthusiasts. It empowers users to effortlessly download and save their favorite YouTube videos for offline enjoyment, catering to both casual viewers and content creators."
 
 
-# Hi, I'm Katherine! 👋
+# Hi, I'm Harshil! 👋
 
 
 ## Demo
@@ -44,3 +44,6 @@ I'm a Flutter developer...
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=harshilchovatiya&&style=flat-square" align="center" />
+</div>  
