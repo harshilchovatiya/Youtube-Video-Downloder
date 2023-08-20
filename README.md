@@ -1,7 +1,7 @@
 
 # Youtube-Video-Downloder
 
-"The YouTube Video Downloader is a user-friendly web application designed for video enthusiasts. It empowers users to effortlessly download and save their favorite YouTube videos for offline enjoyment, catering to both casual viewers and content creators."
+The YouTube Video Downloader is a user-friendly web application designed for video enthusiasts. It empowers users to effortlessly download and save their favorite YouTube videos for offline enjoyment, catering to both casual viewers and content creators.
 
 
 # Hi, I'm Harshil! 👋
